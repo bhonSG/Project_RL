@@ -7,17 +7,21 @@
 ### 📂 GitHub Repository  
 🔗 https://github.com/bhonSG/Project_RL.git  
 
-### 📑 PPT 보고서  
-[https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016](https://github.com/bhonSG/Project_RL/issues/2#issue-3703491094)
-**강화학습 Project_A70027강보현.pptx**
+## 📑 PPT 보고서  
+🔗 **강화학습 Project_A70027강보현.pptx**  
+[[https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016](https://github.com/bhonSG/Project_RL/issues/2)](https://github.com/bhonSG/Project_RL/issues/2#issue-3703491094)
 
-### 📁 업로드 파일  
-[https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016](https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016)
-- `user_seg.csv`  
-- `ad_watch_hist.csv`  
-- `RLProject_A70027.py`
+## 📁 업로드 파일  
+GitHub Issue에 업로드된 데이터 및 소스 파일:
 
----
+- **user_seg.csv**  
+  https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016  
+
+- **ad_watch_hist.csv**  
+  https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016  
+
+- **RLProject_A70027.py**  
+  https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016  
 
 # 🚀 실행 방법
 
