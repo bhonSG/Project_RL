@@ -150,7 +150,7 @@ class QLearningAgent:
 
 # Q-Learning 훈련
 print("\n" + "=" * 50)
-print("Q-Learning 훈련 시작 (Exponential Epsilon Decay)")
+print("Q-Learning 훈련 시작")
 print("=" * 50)
 
 q_agent = QLearningAgent(num_states, num_actions)
@@ -283,14 +283,6 @@ class DQNAgent:
 # DQN 훈련
 print("\n" + "=" * 50)
 print("DQN 훈련 시작")
-print("=" * 50)
-print("하이퍼파라미터:")
-print("  - Learning Rate: 0.0005")
-print("  - Batch Size: 16")
-print("  - Target Update Interval: 60 episodes")
-print("  - Epsilon Decay: 0.98 (exponential)")
-print("  - Dense Layer: 64×64")
-print("  - Episodes: 100")
 print("=" * 50)
 
 dqn_agent = DQNAgent(num_states, num_actions)
