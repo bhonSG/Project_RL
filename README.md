@@ -7,15 +7,14 @@
 
 Git 주소 : https://github.com/bhonSG/Project_RL.git
 
-https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016
 
-PPT 보고서 : 강화학습 Project_A70027강보현.pptx[https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016]
+PPT 보고서 : 강화학습 Project_A70027강보현.pptx [https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016]
 
-업로드 파일
+업로드 파일 [https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016]
  1) user_seg.csv
  2) ad_watch_hist.csv
 
-소스 파일 : RLProject_A70027.py
+소스 파일 : RLProject_A70027.py [https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016]
 
 실행방법
  1) git clone, venv 활성화(.\venv\Scripts\activate), 미포함 패키지 import
