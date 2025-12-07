@@ -3,7 +3,7 @@
 # 📘 강화학습의 기초(GITA401) Project
 
 ### 📌 조: 44조  
-### 👤 팀원: 강보현  
+### 👤 팀원: 강보현 (A70027)
 ### 📂 GitHub Repository  
 🔗 https://github.com/bhonSG/Project_RL.git  
 
