@@ -8,11 +8,11 @@
 🔗 https://github.com/bhonSG/Project_RL.git  
 
 ### 📑 PPT 보고서  
-https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016
+[https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016](https://github.com/bhonSG/Project_RL/issues/2#issue-3703491094)
 **강화학습 Project_A70027강보현.pptx**
 
 ### 📁 업로드 파일  
-https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016
+[https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016](https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016)
 - `user_seg.csv`  
 - `ad_watch_hist.csv`  
 - `RLProject_A70027.py`
