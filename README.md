@@ -50,11 +50,14 @@ python RLProject_A70027.py
 
 ---
 
+
 # 📊 수행 내역 (전체 로그)
 
 
 📦 펼쳐보기 / 접기
 
+<img width="1920" height="981" alt="rl_training_results png" src="https://github.com/user-attachments/assets/5aed40a3-d52e-4869-b077-ff0d228f628a" />
+<img width="1400" height="600" alt="rl_comparison" src="https://github.com/user-attachments/assets/2c14ffcb-e5fd-426a-a748-604f2530c890" />
 
 
 ```
