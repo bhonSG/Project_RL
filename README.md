@@ -17,8 +17,11 @@ PPT 보고서 : 강화학습 Project_A70027강보현.pptx [https://github.com/bh
 소스 파일 : RLProject_A70027.py [https://github.com/bhonSG/Project_RL/issues/1#issue-3703480016]
 
 실행방법
- 1) git clone, venv 활성화(.\venv\Scripts\activate), 미포함 패키지 import
- 2) 스크립트 실행: python RLProject_A70027.py
+ 1) 소스 파일 및 업로드 파일 같은 경로에 위치
+    업로드 파일: user_seg.csv, ad_watch_hist.csv
+    소스 파일: RLProject_A70027.py
+ 3) Python 및 사용 패키지 설치 (pip install)
+ 4) 스크립트 실행: python RLProject_A70027.py
  + Python 버전: Python 3.12.2
  + 설치 패키지/버전
     keras==3.12.0
