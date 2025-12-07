@@ -7,7 +7,7 @@
 
 Git 주소 : https://github.com/bhonSG/Project_RL.git
 
-PPT 보고서 : [강화학습 Project_A70027강보현.pptx]([강화학습 Project_A70027강보현.pptx](https://github.com/bhonSG/Project_RL/blob/master/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20Project_A70027%EA%B0%95%EB%B3%B4%ED%98%84.pptx))
+PPT 보고서 : ([강화학습 Project_A70027강보현.pptx](https://github.com/bhonSG/Project_RL/blob/master/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20Project_A70027%EA%B0%95%EB%B3%B4%ED%98%84.pptx))
 
 업로드 파일
  1) user_seg.csv
